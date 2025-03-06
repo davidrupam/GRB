@@ -1,0 +1,4 @@
+cd np-gangmap
+git add .
+git commit -m "My changes to the Gangmap"
+git push origin master
